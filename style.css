@@ -1,0 +1,12 @@
+H1 {
+  margin-top: 2em;
+
+}
+ul li {
+  display: inline;
+  margin-bottom: 10em;
+  padding-right: 2em;
+}
+nav{
+  text-align: right;
+}
